@@ -13,4 +13,5 @@ Protocoll for remote controlled sex toys
 * devices shall distribute their capabilities to the network/controller
 * low-latency
 * updateable with new features (modules)
+* OTA feature for the devices
 * TBD
